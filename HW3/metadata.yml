@@ -1,0 +1,12 @@
+---
+:id: 31552016
+:submitters:
+- :name: Pippa Lother
+  :email: pel11@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-08 04:37:31.957814000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-07 20:37:31.957814000 Z
+:status: processed
+:score: 78.75

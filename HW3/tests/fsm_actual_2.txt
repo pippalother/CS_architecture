@@ -1,0 +1,18 @@
+  0       out         out1                  0
+  0       out         out2                  0
+
+  1re     out         out1                  0
+  1re     out         out2                  0
+
+  2re     out         out1                  0
+  2re     out         out2                  1
+
+  3re     out         out1                  0
+  3re     out         out2                  0
+
+  4re     out         out1                  1
+  4re     out         out2                  0
+
+  5re     out         out1                  0
+  5re     out         out2                  1
+
